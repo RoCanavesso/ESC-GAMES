@@ -7,8 +7,7 @@ Hoje em dia, alguns jogos possuem modos competitivos que, com bons jogadores, ab
 
 2 - O que o app fornecerá?
   - Espaço para comunicação com treinadores/coachings;
-  - Acesso a vagas "junior" em times amadores;
-  - Campeonatos próprios do ESC GAMES, alguns com prêmios.
+  - Área para anúncios de coaching;
 
 3 - Como funcionará o app?
 
@@ -17,7 +16,3 @@ O ESC GAMES fornece um espaço para facilitar o acesso de jogadores a se comunic
 4 - Sistema de avaliação de aulas/treinos:
 
 Os jogadores, usuários finais do nosso app, poderão avaliar os treinadores/coachings conforme as aulas pagas. Assim, os treinadores com melhores qualificações serão destacados na plataforma para melhorar o acesso de bons treinadores para seus alunos, além de fornecer mais alunos aos treinadores com boas qualificações.
-
-5 - Como funcionará as competições e campeonatos?
-
-Terão competições onde os próprios jogadores/alunos poderão se inscreverem para, além de colocarem em pratica o que aprenderam, poderem receber prêmios ou remunerações (caso o campeonato terá remuneração aos ganhadores).
