@@ -2,8 +2,6 @@
 
 ![image](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/c4251e1a-fad6-428e-b38d-ffb9ecb0cb3c)
 
-Trabalho de engenharia de software, 5º semestre.
-
 1 - O que é o ESC GAMES?
 
 Hoje em dia, alguns jogos possuem modos competitivos que, com bons jogadores, abrem portas para serem grandes profissionais mundialmente, participando de competições e campeonatos ao redor do mundo. Porém, são poucos os casos onde jogadores conseguem entrar no mundo profissional. Assim, pensamos em criar uma plataforma que fornece professores e coaching de vários tipos de jogos para novatos que querem ser grandes profissionais, que possuem interesse em crescerem no mundo dos games.
