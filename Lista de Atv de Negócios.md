@@ -10,7 +10,7 @@
 - Atualiza as informações do perfil, caso haja necessidade;
 - Avalia os treinadores e seus métodos de aulas, assim como os treinadores avaliam seus alunos na plataforma.
 
-# ESC_GAMES
+# ESC-GAMES
 - Guarda os dados de seus clientes após o cadastro, classificando entre treinadores e alunos;
 - Mantém atualizado a aba de anúncios, com os anúncios mais recentes;
 - Disponibiliza o chat de comunicação entre ambas as partes, além de fornecer a possibilidade do treinador criar um cronograma de aulas;
