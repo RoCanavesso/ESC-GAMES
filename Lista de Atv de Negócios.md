@@ -2,7 +2,7 @@
 
 # Cliente
 - Acessa a plataforma do ESC-GAMES e realiza seu cadastro, informando primeiramente se o usuário deseja ser treinador ou aluno. Assim, informando seus dados pessoais e detalhes de contato;
-- Acessa uma aba específica, onde mostram anúncios de interesse para cada jogo, podendo criar um para ser treinado ou para treinar;
+- Acessa uma aba específica, onde mostram anúncios de interesses para cada jogo, tais anúncios criados apenas por treinadores;
 - Após encontrar um treinador, ambas as partes entram em um chat de comunicação, para organizar os horários de treinos e negociar o valor das aulas;
 - Escolhe as formas de pagamento que são gerenciadas pela própria plataforma;
 - Pode solicitar alterações de pagamento ou cancelamento, se for necessário;
