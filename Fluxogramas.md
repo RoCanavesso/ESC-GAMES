@@ -1,15 +1,15 @@
 # Sistema de Cadastro
 
-![image](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/0679a9cc-657e-40f2-ab82-59ccbbf4a30d)
+![Diagrama1](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/d0bdd88d-a3b4-4548-908d-eec331e311d6)
 
 # Sistema de Anúncio
 
-![image](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/a4da637a-194a-4b83-aa3c-a79820b1d8b9)
+![Diagrama2](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/459a24b9-0ad6-40b3-99a4-ebe7a343964d)
 
 # Sistema de Pagamento/Negociação
 
-![image](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/77cc232d-d326-4bcc-82f5-89ad1202f859)
+![Diagrama3](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/fb0e911f-3a8a-4cdb-8fc2-fe27b299fa34)
 
 # Sistema de Avaliação
 
-![image](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/6acb3410-2a0e-4887-938c-21f26a698939)
+![Diagrama4](https://github.com/RoCanavesso/ESC-GAMES/assets/99855775/7e935683-74c0-437e-846d-3b16049996cc)
